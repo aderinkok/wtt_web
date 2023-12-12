@@ -1,0 +1,25 @@
+p{    font: 20px 'Inter', sans-serif;}
+h1{
+
+    font-family: 'Inter', sans-serif;
+    font-variant: small-caps;
+    text-decoration: underline;
+    text-decoration-color: aqua;
+    text-shadow: 50px 50px 10px #ff1010;
+}
+.yazi{    font-size: 50px;}
+#metin{
+    font-size: 20px;
+    text-align: justify;
+    text-transform: capitalize;
+    text-indent: 50px;
+    letter-spacing: 5px;
+    word-spacing: 20px;
+    line-height: 30px;
+    white-space: none;
+}
+html {    font-size:50px;}
+a{
+    text-decoration: none;
+    color:#000000;
+}
