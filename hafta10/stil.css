@@ -1,0 +1,36 @@
+.kutu{
+background-color: rgb(201, 212, 221);
+border: 5px solid #ff0000;
+/* 
+padding-right: 50px;
+padding-top: 50px;
+padding-bottom: 50px;
+padding: 20px; Tüm kenarlar
+padding: 20px 50px;  TOP-BOTTOM / LEFT RIGHT
+padding: 20px 30px 50px;  TOP / LEFT-RIGHT / BOTTOM */
+padding: 10px 20px 30px 40px; /* TOP / RIGHT / BOTTOM / LEFT **/
+margin: 10px;
+/*
+margin: 100px;
+margin: 20px 50px;
+margin: 20px 30px 50px;
+margin-top: 20px ;
+margin-bottom:20px ;
+margin-left: 20px;
+margin-right: 20px;
+*/
+/*
+min-height: 10px;
+max-width: 10px;
+*/
+
+max-width: 250px;
+max-height: 100px;
+width: 100%;
+height: 250px;
+
+}
+
+.kutu2{
+    background-color: blue;
+}
