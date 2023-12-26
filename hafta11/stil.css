@@ -1,0 +1,85 @@
+html {
+    background-image: url('img.jpg');
+    background-repeat: repeat;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+}
+
+a:link {
+    color: #ff0000;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:focus {
+    color: #00ff80;
+    text-decoration: none;
+}
+
+a:active {
+    color: #ff0080;
+    text-decoration: none;
+}
+
+a:visit
+ed {
+    color: #2c61d4;
+    text-decoration: none;
+}
+
+p {
+    display: block;
+
+}
+
+.kutu {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    visibility: visible;
+}
+
+.kirmizi {
+    background-color: #ff0000;
+}
+
+.yesil {
+    background-color: #00ff00;
+}
+
+.mavi {
+    background-color: #0000ff;
+}
+
+#container {
+    background-color: #ffffff;
+}
+
+#menu {
+    background-color: #000000;
+    height: 50px;
+}
+
+#menu a {
+    color: #ffffff;
+    text-decoration: none;
+    margin-top: 10px;
+
+}
+
+#menu>a {
+    color: #ffffff;
+    text-decoration: none;
+    margin-top: 10px;
+
+}
+
+h1+p {
+    background-color: yellow;
+}
