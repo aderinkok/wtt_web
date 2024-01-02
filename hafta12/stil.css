@@ -1,0 +1,78 @@
+.kutu {
+   /* bottom left right */
+    border: 3px solid #73AD21;
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    z-index: 22;
+  }
+
+  .pozisyon{
+    position: relative;
+    top: 10px;
+    left:20px;
+  }
+
+
+  div.fixed {
+    position: fixed;
+    top: 0;
+    left:0;
+    width: 300px;
+    border: 3px solid #ec0ac7;
+    background-color: aqua;
+    z-index: 21;
+  }
+
+
+  div.relative {
+    position: relative;
+    width: 400px;
+    height: 200px;
+    border: 3px solid #73AD21;
+  } 
+  
+  div.absolute {
+    position: absolute;
+    top: 80px;
+    right: 0;
+    width: 200px;
+    height: 100px;
+    border: 3px solid #73AD21;
+  }
+
+  div.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    padding: 5px;
+    background-color: #cae8ca;
+    border: 2px solid #4CAF50;
+  }
+
+
+  .sol {
+    float: left;
+    width: 45%;
+}
+
+.sol img {
+    float: left;
+    margin-right: 50px;
+    width: 200px;
+    height: 100px;
+}
+
+.sag {
+    float: right;
+    width: 45%;
+    border:1px solid #000;
+}
+
+.sag img {
+    float: left;
+    margin-right: 50px;
+    width: 200px;
+    height: 100px;
+}

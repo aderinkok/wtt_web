@@ -27,8 +27,7 @@ a:active {
     text-decoration: none;
 }
 
-a:visit
-ed {
+a:visited {
     color: #2c61d4;
     text-decoration: none;
 }
@@ -74,7 +73,7 @@ p {
 }
 
 #menu>a {
-    color: #ffffff;
+    color: #ff0000;
     text-decoration: none;
     margin-top: 10px;
 
