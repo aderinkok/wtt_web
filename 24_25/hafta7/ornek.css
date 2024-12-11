@@ -1,0 +1,46 @@
+
+p{
+    color: #7AC674;
+    /*
+  border-width: 2px;
+  border-color: #fdf4f4;
+  border-style: solid;
+  border-radius: 5px;
+  */
+/*
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #fff;
+*/
+
+border:  solid red 5px;
+
+}
+
+#metin {
+
+    color:#728571;
+}
+
+.aciklama {
+
+    color:#B2C9AD;
+}
+
+* {
+   
+    color: rgb(170, 209, 27);
+    
+  }
+
+  body{
+
+    background: #ffffff url("img_tree.png") no-repeat right top;
+    background-color: #4B5945;
+    background-image: url("bg_solid.jpg");
+    /*
+    background-repeat: no-repeat;
+    
+    background-position: right top;*/
+
+  }
