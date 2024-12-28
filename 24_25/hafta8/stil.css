@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    text-shadow: 2px 2px 5px #000;
+    font-size: 40px;
+}
+.aciklama{
+    text-align: justify;
+    /*direction: rtl;*/
+    /*
+     text-decoration: underline #ff0000 wavy 1px;
+    */
+    text-decoration-line: underline;
+    text-decoration-color: #ff0000;
+    text-decoration-style: wavy; 
+    text-decoration-thickness: 1px;
+    text-transform: uppercase;
+    text-indent: 50px;
+    letter-spacing: 5px;
+    line-height: 1.5;
+    word-spacing: 10px;
+    font-size: 10px;
+    font-style: oblique;
+    font-weight: 900;
+    font-family: "Roboto", serif;
+    
+    /*
+    font-variant: small-caps;
+    white-space: nowrap;
+    */
+    
+}
+
+a{
+    text-decoration: none;
+    color:#000;
+}
