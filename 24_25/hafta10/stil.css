@@ -1,0 +1,35 @@
+p{
+    border:1px solid #000;
+    display: inline;
+}
+span{
+    border:1px solid #000;
+}
+
+a{
+    border:1px solid #000;
+    display: block;
+}
+
+.kutu{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+
+.kirmizi{
+    background-color: #f00;
+}
+.yesil{
+    background-color: #0f0;
+    visibility: hidden;
+}
+.mavi{
+    background-color: #00f;
+}
+
+
+
+ul{
+    list-style-type: circle;
+}
