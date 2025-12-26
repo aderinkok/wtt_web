@@ -1,0 +1,40 @@
+p{
+    color:#f00;
+}
+
+h1{
+    color:#fff;
+     text-shadow: 2px 2px 5px;
+     font-family: "Roboto", Times, serif;
+     font-variant: small-caps;
+      font-size: 40px;
+}
+
+.aciklama{
+    color:#BDE8F5;
+    background-color: #1C4D8D;
+     text-decoration-color: #f00;
+      text-decoration-style: wavy;
+    text-align: center;
+     text-decoration-line: underline;
+     text-transform: uppercase;
+     text-indent: 50px;
+     letter-spacing: 5px;
+     line-height: 1.8;
+     word-spacing: 10px;
+     white-space: normal;
+     font-family: "Roboto", Times, serif;
+     font-style: italic;
+     font-weight: bold;
+     /*  900 800 700 ...*/
+      
+}
+
+body{
+    background-color: #0F2854;
+}
+
+a{
+    color:#fff;
+    text-decoration-line: none;
+}
