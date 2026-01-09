@@ -1,0 +1,76 @@
+.bosluk {
+    background-color: #000;
+    color: #fff;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+
+    /* T R B L
+    margin: 25px 50px 75px 100px;
+
+     T L/R B
+    margin: 25px 50px 75px;
+
+     T/B L/R
+
+    margin: 25px 50px;
+
+
+    margin: 25px;
+    */
+}
+
+.kutu{
+    color:#000;
+    height:100px;
+    width:100px;
+    display: inline-block;
+    /*
+    max-width: 500px;
+    min-width: 500px;
+    max-height: 100px;
+    min-height: 100px;
+    */
+
+
+}
+
+.kirmizi{ background-color: #f00;}
+.mavi{ background-color: #00f;}
+.yesil{ background-color: #0f0;}
+
+span{
+    display: block;
+}
+
+h1{
+    /*display: none;*/
+    visibility:hidden;
+}
+
+a:link{
+    color:#f00;
+}
+a, a:visited{
+    color:#000;
+    text-decoration: none;
+    border: 1px solid #000;
+    padding: 5px;
+    display: inline-block;
+    text-align: center;
+
+}
+
+a:hover{
+    background-color: #000;
+    color: #fff;
+    
+}
+
+a:active {
+ /* color: #0f0;*/
+  background-color: #0f0;
+}
+
+
