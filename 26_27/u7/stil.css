@@ -1,0 +1,29 @@
+p {
+    color: red;
+    font-size: 20px;
+}
+h1{
+    color:greenyellow;
+}
+
+#metin{
+    color:aqua;
+}
+.text{
+    color:magenta;
+    font-size:20px;
+}
+.buyuk{
+    font-size:50px;
+}
+
+/*
+
+seçici {
+özellik:değer;
+}
+
+
+
+Yorum satırı
+*/
