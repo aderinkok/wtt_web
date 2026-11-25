@@ -1,3 +1,7 @@
+*{
+    text-align:center;
+    
+}
 p {
     color: red;
     font-size: 20px;
@@ -16,6 +20,18 @@ h1{
 .buyuk{
     font-size:50px;
 }
+/*
+p#test{}
+*/
+p.test{
+    color:blue;
+}
+/*
+h2,h3,.test,#ornek{
+    color:black;
+}
+    */
+
 
 /*
 

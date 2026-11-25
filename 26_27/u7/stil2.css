@@ -1,0 +1,56 @@
+body{
+    background-color:black;
+   /* background: black url("kucuk.png") no-repeat right top;
+    background-image: url('kucuk.png');
+    background-repeat: no-repeat;
+    background-position: right top;*/
+}
+
+.metin{
+    text-align:center;
+    font-size:24px;
+}
+
+.beyaz{
+
+    color:white;
+}
+.kirmizi{
+
+    color:red;
+}
+.yesil{
+
+    color:greenyellow;
+}
+.pembe{
+
+    color:pink;
+}
+
+.kenarlikS{
+    
+    border-left-style: solid;
+    border-left-width: 5px;
+    border-left-color: chartreuse;
+}
+.kenarlikD{
+    /*
+    border-style: dotted;
+    border-width: 10px;
+    border-color: blueviolet;
+    */
+    border: 10px dotted blueviolet;
+    
+}
+.kenarlikR{
+    border-style: ridge;
+    border-width: 20px;
+    border-color: red;
+    border-radius: 50px;
+
+    /*
+    border-radius: 50px;
+    
+    */
+}
